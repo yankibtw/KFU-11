@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\bin\Debug\Tumakov14.exe.config
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\bin\Debug\Tumakov14.exe
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\bin\Debug\Tumakov14.pdb
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\obj\Debug\Tumakov14.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\obj\Debug\Tumakov14.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\obj\Debug\Tumakov14.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\obj\Debug\Tumakov14.exe
+C:\Users\ganie\source\repos\yankibtw\Tumakov13\Tumakov14\obj\Debug\Tumakov14.pdb
